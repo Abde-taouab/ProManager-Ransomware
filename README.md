@@ -125,7 +125,7 @@ gcc -o client_decrypt client_decrypt.c -lcrypto
 
 ## 🧑‍💻 Auteur
 
-Abdetaouab
+Abdetaouab et Kader
 
 ---
 
